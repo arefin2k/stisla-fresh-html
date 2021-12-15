@@ -7,6 +7,9 @@
             <section class="section">
                 <div class="section-header">
                     <h1>Form</h1>
+                    <div class="ml-auto">
+                        <a href="table.php" class="btn btn-primary">View All</a>
+                    </div>
                 </div>
                 <div class="section-body">
                     <div class="row">

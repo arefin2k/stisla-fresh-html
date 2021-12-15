@@ -7,6 +7,15 @@ table img {
     padding-top: 10px;
     margin-bottom: 10px;
 }
+.dataTables_wrapper {
+    font-size: 14px!important;
+}
+thead tr th {
+    border-top: 1px solid #ddd!important;
+}
+thead tr th:last-child {
+    width: 100px;
+}
 .border-box {
     border: 1px solid #d7d7d7!important;
 }
