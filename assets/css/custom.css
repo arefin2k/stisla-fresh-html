@@ -52,3 +52,9 @@ thead tr th:last-child {
 .custom-switch {
     padding-left: 0;
 }
+#photo_preview {
+    padding-top: 5px;
+}
+#photo_preview img.thumb {
+    width: 300px;
+}

@@ -25,6 +25,13 @@
                                         <input type="text" class="form-control">
                                     </div>
                                     <div class="form-group">
+                                        <label>Upload Image</label>
+                                        <div class="custom-file">
+                                            <input type="file" class="custom-file-input" id="customFile">
+                                            <label class="custom-file-label" for="customFile">Choose file</label>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
                                         <label>Date Picker</label>
                                         <input type="text" class="form-control datepicker">
                                     </div>
