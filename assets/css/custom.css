@@ -1,0 +1,45 @@
+.w_100 {width: 100px!important;}
+.w_150 {width: 150px!important;}
+.w_200 {width: 200px!important;}
+.w_300 {width: 300px!important;}
+.w_400 {width: 400px!important;}
+table img {
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.border-box {
+    border: 1px solid #d7d7d7!important;
+}
+.container-login {
+    margin-top: 100px!important;
+}
+.card-header-auth {
+    display: block!important;
+    border-bottom-color: #fff!important;
+    margin-top: 15px!important;
+    padding-bottom: 10px!important;
+    min-height: 0!important;
+}
+.card-header-auth h4 {
+    font-size: 20px!important;
+}
+.card-body-auth {
+    padding: 10px 20px!important;
+}
+.card-body-auth button {
+    font-size: 14px!important;
+}
+.form-control, .input-group-text,
+.custom-select,
+.custom-file-label,
+.select2-container .select2-selection--multiple,
+.select2-container .select2-selection--single,
+.note-editor.note-frame {
+    border-color: #d7d7d7!important;
+}
+.card .card-header {
+    border-bottom-color: #ebebeb;
+}
+.custom-switch {
+    padding-left: 0;
+}
