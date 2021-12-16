@@ -1,12 +1,12 @@
-<?php require_once('header.php'); ?>
-    <div class="main-wrapper">
-        <?php require_once('nav.php'); ?>
-        <?php require_once('sidebar.php'); ?>
+<?php require_once('header-top.php'); ?>
+    <div class="main-wrapper container">
+        <?php require_once('nav-top.php'); ?>
+        <?php require_once('sidebar-top.php'); ?>
 
         <div class="main-content">
             <section class="section">
                 <div class="section-header">
-                    <h1>User Profile</h1>
+                    <h1><i class="far fa-arrow-alt-circle-right"></i> User Profile</h1>
                 </div>
                 <div class="section-body">
                     <div class="row">

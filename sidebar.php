@@ -1,10 +1,10 @@
 <div class="main-sidebar">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.php">Stisla</a>
+            <a href="index.php">Dashboard</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
-            <a href="index.php">St</a>
+            <a href="index.php"></a>
         </div>
         <ul class="sidebar-menu">
             <li><a class="nav-link" href="index.php"><i class="fas fa-home"></i> <span>Dashboard</span></a></li>

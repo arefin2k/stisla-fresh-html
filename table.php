@@ -1,14 +1,14 @@
-<?php require_once('header.php'); ?>
-    <div class="main-wrapper">
-        <?php require_once('nav.php'); ?>
-        <?php require_once('sidebar.php'); ?>
+<?php require_once('header-top.php'); ?>
+    <div class="main-wrapper container">
+        <?php require_once('nav-top.php'); ?>
+        <?php require_once('sidebar-top.php'); ?>
 
         <div class="main-content">
             <section class="section">
                 <div class="section-header">
-                    <h1>Table</h1>
+                    <h1><i class="far fa-arrow-alt-circle-right"></i> Table</h1>
                     <div class="ml-auto">
-                        <a href="form.php" class="btn btn-primary">Add New</a>
+                        <a href="form.php" class="btn btn-primary"><i class="fas fa-plus"></i> Add New</a>
                     </div>
                 </div>
                 <div class="section-body">

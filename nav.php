@@ -7,6 +7,9 @@
         </ul>
     </form>
     <ul class="navbar-nav navbar-right">
+        <li class="nav-link">
+            <a href="" target="_blank" class="btn btn-dark">Visit Website</a>
+        </li>
         <li class="dropdown"><a href="#" data-toggle="dropdown" class="nav-link dropdown-toggle nav-link-lg nav-link-user">
                 <img alt="image" src="assets/img/avatar.png" class="rounded-circle mr-1">
                 <div class="d-sm-none d-lg-inline-block">Admin</div></a>
